@@ -551,7 +551,7 @@ def main():
     file.close()
 
 
-    file = open('input.txt', 'r')
+    file = open('input3.txt', 'r')
     count = 0
     countOutput = 0
     N = 0
@@ -572,7 +572,7 @@ def main():
     # set grid size
 
     # set animation update interval
-    updateInterval = 100
+    updateInterval = 10
 
     # declare grid
     grid = np.array([])
