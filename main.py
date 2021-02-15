@@ -1,6 +1,8 @@
 """
 conway.py
 A simple Python/matplotlib implementation of Conway's Game of Life.
+
+BY Alondra Huerta
 """
 
 import sys, argparse
