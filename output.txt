@@ -1,0 +1,154 @@
+GENERATION 1
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 0 - Blinker percentage: 0.0
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 1 - Ship percentage: 100.0
+Others: 0 - Others percentage: 0.0
+-----------------------------------
+
+GENERATION 1
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 0 - Blinker percentage: 0.0
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 0 - Ship percentage: 0.0
+Others: 9 - Others percentage: 100.0
+-----------------------------------
+
+GENERATION 2
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 1 - Blinker percentage: 16.666666666666668
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 0 - Ship percentage: 0.0
+Others: 5 - Others percentage: 83.33333333333333
+-----------------------------------
+
+GENERATION 3
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 0 - Blinker percentage: 0.0
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 0 - Ship percentage: 0.0
+Others: 10 - Others percentage: 100.0
+-----------------------------------
+
+GENERATION 4
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 0 - Blinker percentage: 0.0
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 0 - Ship percentage: 0.0
+Others: 12 - Others percentage: 100.0
+-----------------------------------
+
+GENERATION 5
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 0 - Blinker percentage: 0.0
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 0 - Ship percentage: 0.0
+Others: 16 - Others percentage: 100.0
+-----------------------------------
+
+GENERATION 6
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 0 - Blinker percentage: 0.0
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 0 - Ship percentage: 0.0
+Others: 18 - Others percentage: 100.0
+-----------------------------------
+
+GENERATION 7
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 0 - Blinker percentage: 0.0
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 0 - Ship percentage: 0.0
+Others: 20 - Others percentage: 100.0
+-----------------------------------
+
+GENERATION 8
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 0 - Blinker percentage: 0.0
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 0 - Ship percentage: 0.0
+Others: 25 - Others percentage: 100.0
+-----------------------------------
+
+GENERATION 9
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 0 - Blinker percentage: 0.0
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 0 - Ship percentage: 0.0
+Others: 21 - Others percentage: 100.0
+-----------------------------------
+
+GENERATION 10
+Block: 0 - Block percentage: 0.0
+Beehive: 0 - Beehive percentage: 0.0
+Loaf: 0 - Loaf percentage: 0.0
+Boat: 0 - Boat percentage: 0.0
+Tub: 0 - Tub percentage: 0.0
+Blinker: 0 - Blinker percentage: 0.0
+Toad: 0 - Toad percentage: 0.0
+Beacon: 0 - Loaf percentage: 0.0
+Glider: 0 - Glider percentage: 0.0
+Ship: 0 - Ship percentage: 0.0
+Others: 22 - Others percentage: 100.0
+-----------------------------------
+
